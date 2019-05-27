@@ -1,7 +1,3 @@
-import cv2
-import numpy as np
-import matplotlib.pyplot as plt
-
 function threshold()
 {
   var canv2 = document.getElementById("Q2");
